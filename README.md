@@ -73,16 +73,9 @@ FULL_RUN = False  # Fast Smoke Test: 5-Fold x 1 Seed (45 fits, ~1 min)
 
 ##  Citation
 
-```bibtex
-@article{pantoja2026breaking,
-  title={Breaking the Asymptotic Error Floor in Tabular Regression: Leak-Free Domain Engineering, Non-Linear Interactions, and Entropic Bounded SLSQP Ensembling on the Ames Housing Benchmark},
-  author={Pantoja, Diego},
-  journal={arXiv preprint},
-  year={2026}
-}
-```
+This repository accompanies the unpublished manuscript:
 
----
+Diego Pantoja. “Blending Is All You Need: Leak-Free Domain Engineering and Entropic SLSQP Ensembling for Ames Housing Regression” (2026). Unpublished manuscript.
 
 ##  License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
